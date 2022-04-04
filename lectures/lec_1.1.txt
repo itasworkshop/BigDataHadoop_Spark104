@@ -1,0 +1,41 @@
+Big Data --> large volume of data both structured and unstructred.
+
+1. How much dats is considered big data?
+ans : not fixed.
+
+2. why do we need big data?
+ans: 	1. new business opportunities comanies started analysing data.
+	2. expensive to analyse --> Hadoop framework made is cheap
+	example: E-com website --> recommandations
+	3. last decade data generation is very high --> Volume
+	4. Variety of data --> Variety
+	5. Rate is generation is too high --> Velocity
+
+Big data --> attributes 3v's --> big data problem
+
+Hadoop is one of the solution for big data problem
+
+Hadoop Eco system --> Hadoop(HDFS+MapReduce) + other projects(Hive etc)
+
+1'st gen --> Terdata
+2'st gen --> Hadoop
+3'rd gen --> Spark(100 times faster than Hadoop)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
