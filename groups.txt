@@ -1,0 +1,54 @@
+Teams --> 4 size
+
+1. Group-A
+ADVAITH ROY
+RUBEN THOMAS GEORGE
+ANANTHAKRISHNAN M
+ANEETTA ANNA VARGHESE
+
+2.GROUP-B 
+RONIT,
+NISHANT,
+AYUSH,
+SWETA,
+Mahesh
+
+3. Group-C
+Abhiram
+Girinath vp
+Mathew s ayalikunnel
+
+4. Group-D
+SOURAV SINGH, 
+Sandarbh Saurabh, 
+Shashank soni, 
+Akash shrivas
+
+5. Group-E
+Subhajit Roy
+Anasuya Kundu
+Souradeep Dutta
+Shivam Jha
+Saurabh Upadhayay
+
+6. Group-F
+Akhil C S
+Jephy Jose
+Ashwin A R
+Vishnu Divan
+
+7. Group-G
+Ankit Shrotriy, 
+shiva sharma,
+ananwita Mohapatra, 
+subham panda, 
+vivek vikram
+
+8. Group-H 
+Rhytham Somani, 
+Rejul Shereef, 
+Arjun K Nambiar
+
+
+
+
