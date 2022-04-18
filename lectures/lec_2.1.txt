@@ -1,0 +1,2 @@
+Apache Flume
+used for collecting data -- log aggregator
